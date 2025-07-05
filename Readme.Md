@@ -42,7 +42,11 @@ Pada Tugas Int/float, saya membuat program "Bantu Bayar Utang", yang dimana saya
 
 #### Output
 
-1.![alt text](image-6.png) 2.![alt text](image-7.png) 3.![alt text](image-8.png)
+1.![alt text](image-6.png)
+
+2.![alt text](image-7.png)
+
+3.![alt text](image-8.png)
 
 ## Penutup
 
