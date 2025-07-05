@@ -25,6 +25,25 @@ Pada Tugas String saya membuat program "Mau Ngoding Atau Engga". Di dalamnya sep
 Tugas int/float
 Pada Tugas Int/float, saya membuat program "Bantu Bayar Utang", yang dimana saya menggunakan operasi aritmatika seperti yang ada pada materi
 
+## DOKUMENTASI (ni bneer apa engga gtw)
+
+#### Tugas String
+
+1.  Meminta saran untuk ngoding atau tidak
+2.  Diminta menginputkan pilihan
+3.  Menampilkan saran dari pilihan
+
+#### Cara Kerja
+
+1.  Program menampilkan pertanyaan, user harus memilih jawaban yang telah ditentukan
+    ![alt text](image-4.png)
+2.  Program menampilkan saran berdasrkan jawaban yang dipilih
+    ![alt text](image-5.png)
+
+#### Output
+
+1.![alt text](image-6.png) 2.![alt text](image-7.png) 3.![alt text](image-8.png)
+
 ## Penutup
 
 - Pada Materi ini, saya ada menggunakan bantaun AI dikit (beneran dikit kok), yaitu tentang penggunaan if else di C++, Bukan suruh bikin program loh ya
