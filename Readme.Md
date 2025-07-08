@@ -53,3 +53,5 @@ Pada Tugas Int/float, saya membuat program "Bantu Bayar Utang", yang dimana saya
 - Pada Materi ini, saya ada menggunakan bantaun AI dikit (beneran dikit kok), yaitu tentang penggunaan if else di C++, Bukan suruh bikin program loh ya
 - Dikarenakan Kesalahan penulisan " Git push -up" ![alt text](image-3.png) yang harusnya "Git push -u" membuat saya hampir scroll fesnuk, untungnya dah bisa jir
   -dah
+
+rizal ganteng
